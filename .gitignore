@@ -1,0 +1,12 @@
+.externalToolBuilders
+.settings
+.idea
+bin
+resources/public/web/node_modules
+resources/public/web/.cache
+resources/public/web/dist
+resources/public/web/.babelrc
+resources/public/web/.sassrc
+target
+.classpath
+.project
